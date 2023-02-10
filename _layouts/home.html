@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading"><p class="subscribe"><em>subscribe <a href="https://aarati.substack.com/">to my Substack newsletter for occasional email updates</a></em></p>
+      {{ page.list_title | default: "Field Notes:" }}
+    </h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {%- if post.thumb -%}
+              <img class="post-img" src={{post.thumb}} alt={{post.thumb_alt}}/>
+            {%- elsif post.excerpt -%}
+              <div class="post-excerpt">{{ post.excerpt }}</div>
+            {%- endif -%}
+          </a><br>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+      </li>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+</div>
+
+<script>
+  function getRandomInt(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min) + min); // The maximum is exclusive and the minimum is inclusive
+  }
+  let points = [[50, 3], [ 66, 9], [ 82, 24], [ 91, 36], [ 96, 50], [ 95, 65], [ 85, 81], [ 71, 89], [ 55, 93], [ 39, 96], [ 18, 90], [ 6, 71], [ 4, 46], [ 5, 24], [ 21, 10]]
+  let imgs = document.getElementsByClassName("post-img");
+  for(let i = 0; i < imgs.length;i++){
+    let img = imgs[i]
+    let path = "polygon("
+    for(let x = 0; x < points.length; x++){
+      let point = points[x];
+      let newX = point[0] + getRandomInt(-10,10);
+      let newY = point[1] + getRandomInt(-10,10);
+      if(x != points.length-1){
+        path = path + newX + "% " + newY + "%, ";
+      }else{
+        path = path + newX + "% " + newY + "%)";
+      }
+    }
+    img.style.clipPath = path;
+    // img.addEventListener("mouseover", function(){
+    //   img.style.clipPath = "polygon(0 0, 100% 0, 100% 100%, 0% 100%)"
+    // })
+    // img.addEventListener("mouseout", function(){
+    //   img.style.clipPath = path
+    // })
+
+  }
+</script>
+

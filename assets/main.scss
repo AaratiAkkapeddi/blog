@@ -1,0 +1,403 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// @import "minima";
+$color_1: #E1ECEB;
+$color_2: inherit;
+$font-family_1: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+$background-color_1: black;
+$background-color_2: transparent;
+
+/* NAVIGATION */
+@keyframes blink {
+	from,to {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+}
+@-moz-keyframes blink {
+	from,to {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+}
+@-webkit-keyframes blink {
+	from,to {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+}
+@-ms-keyframes blink {
+	from,to {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+}
+@-o-keyframes blink {
+	from,to {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+}
+/* MAIN CONTENT */
+/*large desktop*/
+/* MOBILE */
+.bg{
+    background-image: url('/assets/profile.jpg');
+    filter:blur(30px) contrast(120%) brightness(0.3);
+    background-position: 70% 10%;
+    opacity: 0.8;
+}
+body {
+	margin: 0;
+	padding: 0;
+	font-family: $font-family_1;
+	color: $color_1;
+	letter-spacing: 0.03em;
+	font-size: 24px;
+	background-color: $background-color_1;
+}
+h1 {
+	margin: 0;
+	font-weight: normal;
+}
+blockquote {
+	margin-inline-start: 1em;
+	margin-inline-end: 1em;
+}
+.bg {
+	position: fixed;
+	width: 100vw;
+	height: 100vh;
+	top: 0;
+	left: 0;
+	pointer-events: none;
+	z-index: -1;
+	background-repeat: no-repeat;
+	background-size: 500%;
+	background-position: center center;
+	filter: brightness(0.3) contrast(120%) blur(30px);
+}
+#bg-nav {
+	.bg {
+		position: absolute;
+	}
+	height: 150px;
+	width: 100%;
+	overflow: hidden;
+	z-index: 2;
+	position: fixed;
+	top: -50px;
+	left: 0;
+	filter: blur(30px);
+	opacity: 1;
+}
+a {
+	color: $color_2;
+	&:link {
+		color: $color_2;
+	}
+	&:visited {
+		color: $color_2;
+	}
+}
+nav {
+	display: flex;
+	justify-content: space-between;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	font-size: 16px;
+	z-index: 999;
+	a {
+		text-decoration: none;
+	}
+	ul {
+		padding-left: 0;
+		padding: 0px 15px;
+		&:last-child {
+			font-size: 14px;
+			text-align: right;
+		}
+	}
+	li {
+		list-style: none;
+		padding: 5px 0;
+		select {
+			background-color: $background-color_2;
+			color: $color_1;
+			font-size: 14px;
+			max-width: 200px;
+			text-overflow: ellipsis;
+			padding: 3px 7px;
+			border-radius: 5px;
+			border: 2px solid #85ABA9;
+		}
+	}
+}
+#message {
+	img {
+		width: 25px;
+		cursor: pointer;
+		&:nth-child(2) {
+			display: none;
+		}
+		&:nth-child(1) {
+			margin-top: 5px;
+			&:hover {
+				box-shadow: 0px 0px 20px 4px #85ABA9;
+			}
+		}
+	}
+	em {
+		position: relative;
+		vertical-align: top;
+		font-size: 12px;
+		line-height: 2;
+	}
+}
+#message-inner {
+	position: fixed;
+	max-width: calc(70% - 55px);
+	border: 2px solid #85ABA9;
+	padding: 25px;
+	display: none;
+	top: 4em;
+	background-image: url('./letter.png');
+	background-repeat: no-repeat;
+	background-position: 17% 40%;
+	background-size: 300%;
+	border-radius: 25px;
+	border-top-left-radius: 0;
+	left: 55px;
+	blockquote {
+		&:nth-child(3) {
+			margin-top: 0;
+		}
+	}
+	p {
+		margin: 0;
+	}
+	a {
+		text-decoration: underline;
+	}
+}
+#message.on {
+	img {
+		&:nth-child(1) {
+			display: none;
+		}
+		&:nth-child(2) {
+			display: inline-block;
+		}
+	}
+	em {
+		display: none;
+	}
+	#message-inner {
+		display: block;
+	}
+	#message-outer {
+		position: fixed;
+		width: 100vw;
+		height: 100vh;
+		top: 75px;
+		left: 0;
+		display: block;
+		z-index: -1;
+	}
+}
+#message-outer {
+	display: none;
+}
+#message.open {
+	em {
+		position: relative;
+		top: -7px;
+		display: none;
+		left: 2px;
+	}
+}
+#blinking-cursor {
+	display: inline-block;
+	background: #E1ECEB;
+	height: 24px;
+	width: 2px;
+	margin-left: 5px;
+	top: 2px;
+	position: relative;
+	-webkit-animation: 1s blink step-end infinite;
+	-moz-animation: 1s blink step-end infinite;
+	-ms-animation: 1s blink step-end infinite;
+	-o-animation: 1s blink step-end infinite;
+	animation: 1s blink step-end infinite;
+}
+main {
+	display: block;
+	margin: 0 auto;
+	margin-top: 100px;
+	max-width: 1100px;
+	padding-bottom: 50px;
+}
+
+.subscribe{
+    // font-size:12px;
+    // margin-top:100px;
+}
+.post-list{
+    margin-left:0;
+    padding-left:0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+	align-items: center;
+}
+.post-list li{
+    display: inline-block;
+    margin:15px;
+    max-width: calc(25% - 30px);
+}
+.post-list li img{
+    transition: 0.2s;
+    border-radius: 0%;
+    transform-origin: center;
+	clip-path:polygon(
+		13.11% 90.58%,
+		16.56% 80.25%,
+		12.89% 58.92%,
+		28.49% 32.1%,
+		31.45% 23.32%,
+		40.59% 5.64%,
+		51.21% 2.82%,
+		61.54% 4.36%,
+		66.88% 6.68%,
+		72.12% 16.53%,
+		83.2% 29.85%,
+		90.21% 48.93%,
+		90.24% 74.74%,
+		92.62% 88.65%,
+		67.72% 99.54%
+	);
+}
+
+.post-list li:hover img {
+    opacity: 0.9;
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    transform: scale(1.2);
+}
+.post-link{
+	text-decoration: none;
+}
+.post-excerpt{
+	transition:0.2s;
+}
+.post-excerpt:hover{
+	transform: scale(1.2);
+}
+
+.post-list li img{
+    max-width: 100%;
+}
+.post-list li > span{
+    font-size:12px;
+}
+.post-list-heading{
+    font-size:16px;
+    font-weight: normal;
+}
+.back-link{
+    font-size:12px;
+    font-style: italic;
+    cursor: pointer;
+}
+.back-link:hover{
+    font-style: normal;
+}
+
+@media (max-width:1200px) {
+	main {
+		max-width: calc(100% - 30px);
+	}
+}
+@media (max-width:900px) {
+	body {
+		font-size: 14px;
+	}
+	nav {
+		ul {
+			&:first-child {
+				li {
+					&:first-child {
+						font-size: 12px;
+					}
+				}
+			}
+			&:last-child {
+				font-size: 12px;
+			}
+			select {
+				font-size: 12px;
+				max-width: 25%;
+			}
+			flex-basis: 45%;
+			width: 45%;
+		}
+	}
+	#message-inner {
+		max-width: calc(100% - 85px);
+		top: 75px;
+		left: 15px;
+	}
+    .post-list li{
+        display: inline-block;
+        margin:15px;
+        max-width: calc(50% - 30px);
+    }
+}
+@media (max-width: 362px) {
+	#message {
+		em {
+			font-size: 10px;
+		}
+	}
+}
+@media (max-width: 281px) {
+	nav {
+		font-size: 8px;
+		ul {
+			&:first-child {
+				li {
+					&:first-child {
+						font-size: 8px;
+					}
+				}
+			}
+			&:last-child {
+				font-size: 8px;
+			}
+			select {
+				font-size: 8px;
+			}
+		}
+	}
+	#message {
+		em {
+			font-size: 8px;
+		}
+		img {
+			width: 15px;
+		}
+	}
+}
