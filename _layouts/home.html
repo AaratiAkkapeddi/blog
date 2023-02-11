@@ -19,7 +19,7 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <a class="post-link" href="{{ post.url | relative_url }}">
             {%- if post.thumb -%}
-              <img class="post-img" src={{post.thumb}} alt={{post.thumb_alt}}/>
+              <img class="post-img" src="/blog/assets/images/{{post.thumb}}"" alt={{post.thumb_alt}}/>
             {%- elsif post.excerpt -%}
               <div class="post-excerpt">{{ post.excerpt }}</div>
             {%- endif -%}
