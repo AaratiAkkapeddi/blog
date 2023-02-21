@@ -3,7 +3,7 @@ layout: post
 title:  "December Updates: On Spending Time"
 date:   2021-12-14 10:59:09 -0500
 categories: short
-thumb: "time/2.webp"
+thumb: "time/9.webp"
 thumb_alt: "petri dish of bacterial colonies"
 excerpt: ""
 ---

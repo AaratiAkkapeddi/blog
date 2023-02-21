@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "December Updates Continued: I knew that if I walked in your footsteps, it would become a ritual"
+date:   2021-12-14 11:59:09 -0500
+categories: short
+thumb: "time/14.webp"
+thumb_alt: "petri dish of bacterial colonies"
+excerpt: ""
+---
+
+Dear Readers,<br><br>
+This is part II of my December 2021 updates. In this post, I'll reflect on the actual results of my newer machine learning model and thoughts/ideas this work has sparked. 
+
+In the previous post I explained how my original model used transfer learning and was not purely trained on my own data. So I spent this Fall training my own model from scratch only on my family photos. Below are some results.
+
+![Generated image of a person's face](/fieldnotes/assets/images/time/5.webp)
+
+![Generated image of a person's face](/fieldnotes/assets/images/time/6.webp)
+
+![Generated image of a person's face](/fieldnotes/assets/images/time/7.webp)
+
+![Generated image of a person's face](/fieldnotes/assets/images/time/8.webp)
+
+![Generated image of a person's face](/fieldnotes/assets/images/time/9.webp)
+
+![Generated image of a person's face](/fieldnotes/assets/images/time/10.webp)
+
+![Generated image of a person's face](/fieldnotes/assets/images/time/11.webp)
+
+
+Below are some comparisons between my old and new model (a quick note: the old model was trained a bit further since my original post about this project). The differences are slight but, in my opinion, important. I do feel a greater sense of familiarity when I look at the new model's generated output.
+
+
+![Faces generated from new model](/fieldnotes/assets/images/time/12.webp)
+<span>Faces generated from new model</span>
+
+![Faces generated from old model](/fieldnotes/assets/images/time/13.webp)
+<span>Faces generated from old model</span>
+
+I think I wrote about this in my original post, but I really feel like these images, through their similarity and in their differences, feel metaphorically rich for thinking about memory as a proxy to reality. Our memories of each other are skewed by our own emotion, subjectivity, and experiences. In this way they become generative.
+
+But something new I've been thinking about looking at these images, is the idea of multiples and layering. 
+
+Below are generated images surrounding a real photograph of my mother. The generated images were labeled as similar to my mother's face by a facial recognition algorithm -- but I also took a secondary pass with my own judgment.
+
+![a photograph of my mother on her wedding day, surrounded by a collage of smaller generated faces that somewhat resemble her face.](/fieldnotes/assets/images/time/14.webp)
+<span>a photograph of my mother on her wedding day, surrounded by a collage of smaller generated faces that somewhat resemble her face.</span>
+
+Some of these generated faces look more or less like my mom to me. But also some of these generated faces look more like her in specific parts of her life (as a child, as a teen, in the 90's, now, etc). This made me think about a person -- or at least the memory of a person -- as a layering of different perspectives. 
+
+![a photograph of my father with me on my first birthday, surrounded by a collage of smaller generated faces that somewhat resemble his face.](/fieldnotes/assets/images/time/15.webp)
+<span>a photograph of my father with me on my first birthday, surrounded by a collage of smaller generated faces that somewhat resemble his face.</span>
+
+One's own memory of themselves can also exist in a multitude. It can change over time, multiply, iterate. Sometimes old photos of us even look unrecognizable as we grow and bring new perspectives to viewing the past.
+
+![A screenshot of a text conversation with my mom where she doesn’t recognize a baby photograph of herself and asks if I generated or manipulated the image.](/fieldnotes/assets/images/time/16.webp)
+<span>A screenshot of a text conversation with my mom where she doesn’t recognize a baby photograph of herself and asks if I generated or manipulated the image.</span>
+
+And in thinking about collective memory, we each bring our own perspective into our memory of a person. For example, My partner, my parents, my friends, my neighbor -- they all have different images in their mind of who I am. And all of these Aaratis might have similarities but would also be different. The real Aarati, I think, would be somewhere in the composite of these images. 
+
+![a comparison of composites made up of generated images that look like my grandfather, mother, and father vs. composites made up of actual photographs of my grandfather, mother and father.](/fieldnotes/assets/images/time/17.webp)
+<span>a comparison of composites made up of generated images that look like my grandfather, mother, and father vs. composites made up of actual photographs of my grandfather, mother and father.</span>
+
+![A composite image of generated images that look like me. Clearly, the majority of photos of me in the archive are from my childhood.](/fieldnotes/assets/images/time/18.webp)
+<span>A composite image of generated images that look like me. Clearly, the majority of photos of me in the archive are from my childhood.</span>
+This idea of layering also makes me think about current camera technology. For example, when we take a photograph with an iphone, the camera does not actually take a single image of one moment, but rather takes several photographs and composites them together to make the final image. This is called [Epsilon Photography](https://vas3k.com/blog/computational_photography/#scroll50).
+
+![Diagram of iphone photo capture timeline taken from https://vas3k.com/blog/computational_photography/#scroll50](/fieldnotes/assets/images/time/19.webp)
+<span>Diagram of iphone photo capture timeline taken from https://vas3k.com/blog/computational_photography/#scroll50</span>
+
+The photograph becomes, not a single moment in time, but a collage of perspectives. And in that way can also be considered a collapsing of time.
+
+I also think about the aesthetic of layering. The more I layer, the more things seem to come into focus. But there is also a beauty in misregistration. I'm thinking of recent CMYK risograph experiments with these images and how looking at them feels like you can simultaneously see the layers as parts and the image as a whole.
+
+![CMYK risograph print of generated faces that look like my grandfather surrounding an actual photograph of my grandfather with his family.](/fieldnotes/assets/images/time/20.webp)
+<span>CMYK risograph print of generated faces that look like my grandfather surrounding an actual photograph of my grandfather with his family.</span>
+
+![detail image showing a closeup of the misregistration in the print](/fieldnotes/assets/images/time/21.webp)
+<span>detail image showing a closeup of the misregistration in the print</span>
+
+This is an idea I'd like to carry into the next phase when I start to think about form for this project. I also haven't even spoken about the interviews and comments I've been collecting from family members around this work. But I think that will all fall into place with time.
+
+
+I'll leave it here for now. As always, thank you for reading and I hope you all have a peaceful and restful end to 2021.
+
+In gratitude,<br>
+Aarati
+
+
+
+
+
+![Generated images mixed in with original photographs](/fieldnotes/assets/images/time/2.webp)
+<span>Generated images mixed in with original photographs</span>
