@@ -14,7 +14,7 @@ A thank you to my Thesis advisors, Marisa Jahn and Loretta Wolozin. And a huge t
 What is the aesthetic and analytical potential for machine learning to reveal semantic or visual patterns from large photographic archives? What are the challenges and caveats of working with machine learning in the archival context, where naturally anthropological, historical, and cultural aspects come into play? And finally, once patterns are identified, how can they complement or shed light on research around shifting values for representation of self and family in colonial and then postcolonial contexts in the East?
 
 <em><strong>After Image</strong></em> is an art installation comprised of a video piece and creative data visualization both showcasing a series of experiments done with an archive of the artist’s own family photographs in relation to a larger archive of South Indian studio photographs from the Studies in Tamil Studio Archives and Society (S.T.A.R.S). Each of these experiments employs machine learning and computational techniques to sort, average, and analyze the images in order to surface semantic and visual patterns across the hundreds of images. Through the use of these techniques, the artist performatively questions the notion of collective and individual identity, and highlights the complexity of the image as a data point.
-<br>
+<br><br>
 — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
 
 “The photograph is a multiplicity of different things: a way of speaking, a way of showing, a recorded point of view, a piece of visible architecture, a force that is exerted on the viewer, a seduction, a coercion, an exercise of power that has an effect on how the self is fashioned.^1”

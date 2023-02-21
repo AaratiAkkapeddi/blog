@@ -3,7 +3,7 @@ layout: post
 title:  "Printed Matter [Virtual] Art Book Fair"
 date:   2021-02-24 10:59:09 -0500
 categories: short
-thumb: "printed_matter/bharat.gif"
+thumb: "printed_matter/bharat.webp"
 thumb_alt: "gif of flipbook with generated Bharatanatyam dancer"
 excerpt: ""
 ---
@@ -14,7 +14,7 @@ You can find our “booth” here https://akkapeddischmitt.pmvabf.org/
 And you can find the main page for PMVABF here
 
 I am selling a new flipbook I made using a machine learning model I trained on stills from Bharatanatyam footage.<br><br>
-![image tooltip here](/fieldnotes/assets/images/printed_matter/bharat.gif)
+![image tooltip here](/fieldnotes/assets/images/printed_matter/bharat.webp)
 <span>I trained a machine learning model on stills from youtube videos of Bharatanatyam (the oldest Indian classical dance originating in Tamil Nadu). This double-sided flipbook shows interpolations between machine generated dancers. I have been interested in Indian classical female dancers as cultural motifs in colonial, post-colonial, spiritual and diasporic contexts. I also have a personal relationship to Bharatanatyam because I learned it when I was young.
 </span>
 
@@ -37,5 +37,5 @@ On that note, I should also say I’m in search of ways to lower the cost of pro
 
 Ok I think that’s all for now in terms of pitching my own stuff! I strongly encourage people to check out the schedule for PMVABF as there are some interesting workshops and live music happening.
 
-Sending you all lots of love,
+Sending you all lots of love,<br>
 Aarati

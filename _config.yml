@@ -22,7 +22,7 @@ title: Field Notes
 email: aarati.akkapeddi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Aarati Akkapeddi's blog where they post snippets of in-progress work and experiments.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/fieldnotes" # the subpath of your site, e.g. /blog
 url: "https://aarati.online" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AaratiAkkapeddi
 github_username:  AaratiAkkapeddi

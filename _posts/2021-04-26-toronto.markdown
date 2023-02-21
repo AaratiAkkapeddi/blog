@@ -38,5 +38,5 @@ Parsons MS Data Viz should also be online soon. Check out this link for updates.
 
 And that’s a wrap! Thanks for reading :)
 
-Sending you all lots of love,
+Sending you all lots of love,<br>
 Aarati

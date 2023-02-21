@@ -3,7 +3,7 @@ layout: post
 title:  "I knew that if I walked in your footsteps, it would become a ritual: Dispatches from a remote residency at Ada X"
 date:   2021-06-14 10:59:09 -0500
 categories: short
-thumb: "1.png"
+thumb: "montreal/4.webp"
 thumb_alt: "spotted lanternfly"
 excerpt: ""
 ---

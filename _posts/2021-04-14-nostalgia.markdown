@@ -51,5 +51,5 @@ This direction in my work is fairly new so my ideas around it are still settling
 
 As always, thanks for reading.
 
-Sending you all lots of love,
+Sending you all lots of love,<br>
 Aarati

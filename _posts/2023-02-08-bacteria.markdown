@@ -3,7 +3,7 @@ layout: post
 title:  "Bacteria Clusters"
 date:   2023-02-08 10:59:09 -0500
 categories: short
-thumb: "microbes/petri_close1.png"
+thumb: "microbes/close.png"
 thumb_alt: "petri dish of bacterial colonies"
 excerpt: ""
 ---
