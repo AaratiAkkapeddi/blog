@@ -7,7 +7,7 @@ thumb: "deepnostalgia/tata.webp"
 thumb_alt: "spotted lanternfly"
 excerpt: ""
 ---
-Dear Readers,
+Dear Readers,<br><br>
 Several weeks ago I signed up for a freemium account on a genealogy platform called MyHeritage so that I could try out a feature that promised to reanimate my dead ancestors through an AI called Deep Nostalgia (using technology created by Israeli company, D-ID). I actually did know that I would subsequently receive hundreds of marketing emails and have my data stored on their servers. I also know that MyHeritage has received some backlash in the past relating to privacy & security. But I also wanted to try this feature out as I feel like it relates to a lot things I’ve been thinking about around memory and data. So I gave it a go with a photograph of my late tatagaaru (grandfather), and shared the results with his immediate family (my grandmother, my uncles and my mom).<br><br>
 ![image tooltip here](/fieldnotes/assets/images/deepnostalgia/tata.webp)
 

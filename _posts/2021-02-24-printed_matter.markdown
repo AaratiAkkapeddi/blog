@@ -7,10 +7,10 @@ thumb: "printed_matter/bharat.webp"
 thumb_alt: "gif of flipbook with generated Bharatanatyam dancer"
 excerpt: ""
 ---
-Dear Readers,
+Dear Readers,<br><br>
 I’m writing to let you know that my friend Philipp Schmitt and I are participating in the Printed Matter Virtual Art Book Fair, which is taking place online from today (Feb 24th) until February 28th.
 
-You can find our “booth” here https://akkapeddischmitt.pmvabf.org/
+You can find our “booth” here [https://akkapeddischmitt.pmvabf.org/](https://akkapeddischmitt.pmvabf.org/)
 And you can find the main page for PMVABF here
 
 I am selling a new flipbook I made using a machine learning model I trained on stills from Bharatanatyam footage.<br><br>

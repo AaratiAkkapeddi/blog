@@ -3,7 +3,7 @@ layout: post
 title:  "Kombucha SCOBY"
 date:   2023-02-08 10:59:09 -0500
 categories: short
-thumb: "scoby/scoby8.jpg"
+thumb: "scoby/thumb.png"
 thumb_alt: "intaglio print of spotted lanternfly wings on a dried kombucha scoby"
 excerpt: ""
 ---

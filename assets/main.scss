@@ -54,7 +54,7 @@ $background-color_2: transparent;
 /*large desktop*/
 /* MOBILE */
 .bg{
-    background-image: url('assets/profile.jpg');
+    background-image: url('/fieldnotes/assets/profile.jpg');
     filter:blur(30px) contrast(120%) brightness(0.3);
     background-position: 70% 10%;
     opacity: 0.8;
@@ -102,6 +102,9 @@ blockquote {
 	left: 0;
 	filter: blur(30px);
 	opacity: 1;
+}
+sup a{
+	text-decoration: none;
 }
 a {
 	color: $color_2;

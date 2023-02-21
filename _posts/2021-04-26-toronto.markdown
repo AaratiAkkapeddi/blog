@@ -7,7 +7,7 @@ thumb: "toronto/1.webp"
 thumb_alt: "Flyer for Grounding Caresses show in Toronto"
 excerpt: ""
 ---
-Dear readers,
+Dear readers,<br><br>
 I usually don’t write more than once a month, but I happen to have some news items to share that I didn’t manage to pack into the last post. So apologies for cluttering your inboxes.<br><br>
 
 1. If you are around Toronto, the Tamil Archive Project has some amazing work that will be up through May 4th at The Public. Do also keep your eyes peeled for an upcoming Tamil Futures Magazine release. I have a work on display as part of the current TAP show at The Public. Description of the show below (from TAP’s instagram):

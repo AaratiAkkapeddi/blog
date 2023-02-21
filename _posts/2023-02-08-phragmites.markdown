@@ -3,7 +3,7 @@ layout: post
 title:  "Paper from phragmites"
 date:   2023-02-08 10:59:09 -0500
 categories: short
-thumb: paper/garlic5.jpg
+thumb: paper/thumb.png
 thumb_alt: "failed attempt at making paper from phragmites"
 excerpt: "lorem ipsum dolor sin amet"
 ---
