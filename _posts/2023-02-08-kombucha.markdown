@@ -1,14 +1,25 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Kombucha SCOBY"
 date:   2023-02-08 10:59:09 -0500
 categories: short
-thumb: "8.png"
-thumb_alt: "spotted lanternfly"
+thumb: "scoby/8.jpg"
+thumb_alt: "intaglio print of spotted lanternfly wings on a dried kombucha scoby"
 excerpt: ""
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.<br><br>
-![image tooltip here](/blog/assets/images/2.png)
+lorem ipsum
+![scoby drying](/fieldnotes/assets/images/scoby/scoby1.jpg)
+![scoby drying](/fieldnotes/assets/images/scoby/scoby2.jpg)
+![scoby held up to light](/fieldnotes/assets/images/scoby/scoby3.jpg)
+![scoby held with hand](/fieldnotes/assets/images/scoby/scoby4.jpg)
+![scoby held with hand](/fieldnotes/assets/images/scoby/scoby5.jpg)
+![scoby held with hand](/fieldnotes/assets/images/scoby/scoby6.jpg)
+![scoby against white table](/fieldnotes/assets/images/scoby/scoby7.jpg)
+![scoby against white table](/fieldnotes/assets/images/scoby/scoby8.jpg)
+![henna tattooed scoby](/fieldnotes/assets/images/scoby/henna.png)
 
-
+<video width="320" height="240" controls>
+  <source src="/fieldnotes/assets/images/scoby/scoby9.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 

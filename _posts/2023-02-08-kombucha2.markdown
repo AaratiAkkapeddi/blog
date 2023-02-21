@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Bacteria Clusters"
 date:   2023-02-08 10:59:09 -0500
 categories: short
-thumb: "7.png"
-thumb_alt: "spotted lanternfly"
+thumb: "microbes/petri_close1.png"
+thumb_alt: "petri dish of bacterial colonies"
 excerpt: ""
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.<br><br>
-![image tooltip here](/fieldnotes/assets/images/2.png)
+lorem ipsum <br><br>
+![closeup of bacterial colonies in a petri dish](/fieldnotes/assets/images/microbes/petri_close1.png)
+![closeup of bacterial colonies in a petri dish](/fieldnotes/assets/images/microbes/petri_close2.png)
+![closeup of bacterial colonies in a petri dish surrounding a US quarter featuring bats from American Samoa](/fieldnotes/assets/images/microbes/bat1.jpg)
+![petri dish of bacterial colonies surrounded by hole-punch cutouts from autumn leaves](/fieldnotes/assets/images/microbes/leaves_microbes.jpg)
+![petri dish of bacteria clusters](/fieldnotes/assets/images/microbes/petri.jpg)
 
 
 

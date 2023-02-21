@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Toronto, Virtual Montreal"
+date:   2021-04-26 10:59:09 -0500
+categories: short
+thumb: "toronto/1.webp"
+thumb_alt: "Flyer for Grounding Caresses show in Toronto"
+excerpt: ""
+---
+Dear readers,
+I usually don’t write more than once a month, but I happen to have some news items to share that I didn’t manage to pack into the last post. So apologies for cluttering your inboxes.<br><br>
+
+1. If you are around Toronto, the Tamil Archive Project has some amazing work that will be up through May 4th at The Public. Do also keep your eyes peeled for an upcoming Tamil Futures Magazine release. I have a work on display as part of the current TAP show at The Public. Description of the show below (from TAP’s instagram):
+
+
+![image tooltip here](/fieldnotes/assets/images/toronto/1.webp)
+![image tooltip here](/fieldnotes/assets/images/toronto/2.webp)
+![image tooltip here](/fieldnotes/assets/images/toronto/3.webp)
+
+
+
+My work is a set of four kolams (muggulu/rangoli) encrypted with the birthdays of my paternal grandmother, my maternal grandmother, my mother and myself (starting clockwise top-left).
+![image tooltip here](/fieldnotes/assets/images/toronto/4.webp)
+
+The encryption process involves converting characters into their binary code, and assigning the corresponding 0’s and 1’s to two different kolam components. These components are then laid out in a spiral formation after a central circle to form the kolam. The diagram below illustrates the encryption process for the word “memory.”
+
+![image tooltip here](/fieldnotes/assets/images/toronto/5.webp)
+A big shoutout to the other artists, Ria Gopu, Alex Mahesvaran, Vithurry Sivaloganathan, Luxvna Uthayakumar, Vinutha Vasanthi Venkatesh! Each work is such a unique and personal expression of this ritual. I understand that stay-at-home measures are pretty intense right now. Sending a lot of love to those in Toronto.
+
+2. I also recently received The Stinnett Philadelphia Museum of Art Collection Award. Which means I get to have one of my works accessioned into The Philadelphia Museum of Art’s permanent collection (!). I was able to get this award through applying to The Print Center’s annual competition. I highly recommend applying as there are several awards given each year.
+
+3. I will be starting a residency with Ada X in Montreal in mid-May. Unfortunately, due to COVID restrictions this will be a remote residency, but all the same, I am super grateful to Ada X for allowing me the funds, time, virtual space, and resources to work. I’ll share more on that as things evolve.
+
+4. And finally, it’s the end of the semester, which means there’s going to be a lot of great student work online to check out.
+Rutgers BFA Design is online.
+Parsons Design and Technology work will be online soon.
+Parsons MS Data Viz should also be online soon. Check out this link for updates.
+
+And that’s a wrap! Thanks for reading :)
+
+Sending you all lots of love,
+Aarati
