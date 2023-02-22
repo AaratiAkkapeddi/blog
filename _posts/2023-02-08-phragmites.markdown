@@ -7,7 +7,7 @@ thumb: paper/thumb.png
 thumb_alt: "failed attempt at making paper from phragmites"
 excerpt: ""
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.<br><br>
+Experiments attempting to make paper from the 'invasive' phragmites australis...<br><br>
 ![picture of phragmites australis](/fieldnotes/assets/images/paper/phragmites3.png)
 ![phragmites being soaked](/fieldnotes/assets/images/paper/phragmites4.png)
 ![phragmites pulp in water](/fieldnotes/assets/images/paper/phragmites5.png)

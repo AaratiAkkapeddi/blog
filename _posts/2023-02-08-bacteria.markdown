@@ -7,7 +7,7 @@ thumb: "microbes/close.png"
 thumb_alt: "petri dish of bacterial colonies"
 excerpt: ""
 ---
-lorem ipsum <br><br>
+Bacteria studies <br><br>
 ![closeup of bacterial colonies in a petri dish](/fieldnotes/assets/images/microbes/petri_close1.png)
 ![closeup of bacterial colonies in a petri dish](/fieldnotes/assets/images/microbes/petri_close2.png)
 ![closeup of bacterial colonies in a petri dish surrounding a US quarter featuring bats from American Samoa](/fieldnotes/assets/images/microbes/bat1.jpg)

@@ -364,6 +364,10 @@ main {
 	body {
 		font-size: 14px;
 	}
+	.post-content img{
+		max-width: calc(100% - 20px);
+		margin: 10px auto;
+	}
 	nav {
 		ul {
 			&:first-child {
