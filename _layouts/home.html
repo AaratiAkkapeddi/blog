@@ -11,7 +11,7 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading"><p class="subscribe"><em>subscribe <a href="https://aarati.substack.com/">to my Substack newsletter for occasional email updates</a></em></p>
-      {{ page.list_title | default: "These are my 'field notes.' This is where I post fragments from my creative practice." }}
+      {{ page.list_title | default: "These are my 'field notes.' This is where I post fragments (thoughts, images, text) from my creative practice." }}
     </h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
@@ -21,7 +21,7 @@ layout: default
             {%- if post.excerpt.size > 0 -%}
               <div class="post-excerpt">{{ post.excerpt }}</div>
             {%- elsif post.thumb -%}
-              <img class="post-img" src="/fieldnotes/assets/images/{{post.thumb}}"" alt={{post.thumb_alt}}/>
+              <img class="post-img" src="/fieldnotes/assets/images/{{post.thumb}}" alt={{post.thumb_alt}}/>
             {%- endif -%}
           </a><br>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -56,6 +56,8 @@ layout: default
       }
     }
     img.style.clipPath = path;
+
+  
     // img.addEventListener("mouseover", function(){
     //   img.style.clipPath = "polygon(0 0, 100% 0, 100% 100%, 0% 100%)"
     // })
@@ -63,6 +65,22 @@ layout: default
     //   img.style.clipPath = path
     // })
 
+  }
+  let exes = document.getElementsByClassName("post-excerpt");
+  for(let i = 0; i < exes.length;i++){
+    let img = exes[i]
+    let path = "polygon("
+    for(let x = 0; x < points.length; x++){
+      let point = points[x];
+      let newX = point[0] + getRandomInt(-10,10);
+      let newY = point[1] + getRandomInt(-10,10);
+      if(x != points.length-1){
+        path = path + newX + "% " + newY + "%, ";
+      }else{
+        path = path + newX + "% " + newY + "%)";
+      }
+    }
+    img.style.clipPath = path;
   }
 </script>
 

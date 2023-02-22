@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "A·kin & London visit"
+date:  2023-02-21 11:59:09 -0500
+categories: short
+thumb: "akin/thumb.png"
+thumb_alt: "closeup of mural"
+excerpt: ""
+---
+_All photos by Ollie Harrop unless otherwise noted_
+
+![installation photo.](/fieldnotes/assets/images/akin/2.jpeg)
+
+![installation photo.](/fieldnotes/assets/images/akin/4.jpeg)
+
+![installation photo.](/fieldnotes/assets/images/akin/6.jpeg)
+
+![installation photo.](/fieldnotes/assets/images/akin/1.jpeg)
+
+![installation photo.](/fieldnotes/assets/images/akin/8.jpeg)
+
+![closeup installation photo.](/fieldnotes/assets/images/akin/12.jpeg)
+
+![installation photo.](/fieldnotes/assets/images/akin/10.jpeg)
+
+![screenshot from website.](/fieldnotes/assets/images/akin/web.png)
+<span>screenshot of website</span>
+
+![gif of website where you can peel apart composites.](/fieldnotes/assets/images/akin/peel.gif)
+<span>screen capture of website</span>
