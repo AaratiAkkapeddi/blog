@@ -1,0 +1,10 @@
+---
+layout: post
+title:  ""
+date:   2022-12-01 10:59:09 -0500
+categories: short
+thumb: "mom.gif"
+thumb_alt: "A photo of my grandmother melts into a photo of my mother"
+excerpt: ""
+---
+![A photo of my grandmother melts into a photo of my mother](/fieldnotes/assets/images/mom_large.gif)
