@@ -22,27 +22,27 @@ As for personal updates, I basically just have a lot of road trip pictures to sh
 So our actual itinerary ended up like this:
 
 <code>
-New York -> Johnson City, Tennessee
-Johnson City, Tennessee -> Tuscaloosa, Alabama
-Tuscaloosa, Alabama -> New Orleans, LA
-New Orleans, LA -> Austin, TX
-Austin, TX -> El Paso, TX
-El Paso, TX -> Pheonix, AZ
-Pheonix, AZ -> Joshua Tree, CA
-Joshua Tree, CA -> Los Angeles, CA
-Los Angeles, CA -> The Bay Area [Oakland, Berkley, SF, Point Reyes], CA
-The Bay Area, CA -> Crescent City (camping in the redwoods), CA
-Crescent City, CA -> Chemult, Oregon
-Chemult, Oregon -> Boise, Idaho
-Boise, Idaho -> Island Park, Idaho
-Island Park, Idaho -> Sheridan, Wyoming
-Sheridan, Wyoming -> Sioux city, Iowa
-Sioux city, Iowa -> Champaign, IL
-Champaign, IL -> Cincinnati, Ohio
-Cincinnati, Ohio -> Ohiopyle, PA
-Ohiopyle, PA -> Rockland County, New York
+New York -> Johnson City, Tennessee<br>
+Johnson City, Tennessee -> Tuscaloosa, Alabama<br>
+Tuscaloosa, Alabama -> New Orleans, LA<br>
+New Orleans, LA -> Austin, TX<br>
+Austin, TX -> El Paso, TX<br>
+El Paso, TX -> Pheonix, AZ<br>
+Pheonix, AZ -> Joshua Tree, CA<br>
+Joshua Tree, CA -> Los Angeles, CA<br>
+Los Angeles, CA -> The Bay Area [Oakland, Berkley, SF, Point Reyes], CA<br>
+The Bay Area, CA -> Crescent City (camping in the redwoods), CA<br>
+Crescent City, CA -> Chemult, Oregon<br>
+Chemult, Oregon -> Boise, Idaho<br>
+Boise, Idaho -> Island Park, Idaho<br>
+Island Park, Idaho -> Sheridan, Wyoming<br>
+Sheridan, Wyoming -> Sioux city, Iowa<br>
+Sioux city, Iowa -> Champaign, IL<br>
+Champaign, IL -> Cincinnati, Ohio<br>
+Cincinnati, Ohio -> Ohiopyle, PA<br>
+Ohiopyle, PA -> Rockland County, New York<br>
 Rockland County, New York -> New York City
-</code>
+</code><br>
 phewwwwww that was a long list.In addition to camping we also, motel-ed, airbnb-ed and stayed with people. A big thanks to all the friends and family that hosted us! Below is a mini list of highlights in no particular order (couldn’t fit it all in this post!)…
 
 ![panorama of the van](/fieldnotes/assets/images/nyt/2.webp)
