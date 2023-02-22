@@ -42,7 +42,7 @@ Champaign, IL -> Cincinnati, Ohio<br>
 Cincinnati, Ohio -> Ohiopyle, PA<br>
 Ohiopyle, PA -> Rockland County, New York<br>
 Rockland County, New York -> New York City
-</code><br>
+</code><br><br>
 phewwwwww that was a long list.In addition to camping we also, motel-ed, airbnb-ed and stayed with people. A big thanks to all the friends and family that hosted us! Below is a mini list of highlights in no particular order (couldn’t fit it all in this post!)…
 
 ![panorama of the van](/fieldnotes/assets/images/nyt/2.webp)
