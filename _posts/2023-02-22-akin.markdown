@@ -1,13 +1,18 @@
 ---
 layout: post
 title:  "A·kin & London visit"
-date:  2023-02-21 11:59:09 -0500
+date:  2023-02-22 09:59:09 -0500
 categories: short
-thumb: "akin/thumb.png"
+thumb: "akin/tiger.gif"
 thumb_alt: "closeup of mural"
 excerpt: ""
 ---
-_All photos by Ollie Harrop unless otherwise noted_
+
+Last week I went to London for the first time for the closing of A·kin. I gave a couple talks at [Goldsmiths](https://www.instagram.com/digital_arts_computing/) & [LCC](https://www.arts.ac.uk/colleges/london-college-of-communication), a talk & conversation with [Joanna Zylinska](http://www.joannazylinska.net/) (!) at [The Photographers' Gallery](https://thephotographersgallery.org.uk/whats-on/akin-aarati-akkapeddi), and a workshop at [Somerset House](https://www.somersethouse.org.uk/whats-on/click-and-collect-show-me-your-dataset). As you can imagine, I feel extremely privileged and grateful. I think I met more people in London in one week than I have in the past 6 months in New York (maybe that just means I need to leave my apartment more). Everyone I met was lovely. I'm espsecially thankful to The Photographers' Gallery for organizing my trip.
+
+Below are documentation images of the exhibition:
+
+_All installation photos are by Ollie Harrop unless otherwise noted_
 
 ![installation photo.](/fieldnotes/assets/images/akin/2.jpeg)
 
@@ -28,3 +33,51 @@ _All photos by Ollie Harrop unless otherwise noted_
 
 ![gif of website where you can peel apart composites.](/fieldnotes/assets/images/akin/peel.gif)
 <span>screen capture of website</span>
+
+Even though the show has closed, you can still access the online component via unthinking.photography here: [https://unthinking.photography/projects/akin/](https://unthinking.photography/projects/akin/)
+
+Also did you know the third floor of The Photographers' Gallery has a moving gallery wall? It never ceases to amaze me 😂
+
+![A wall from the gallery opens like a door.](/fieldnotes/assets/images/akin/wall.gif)
+
+In addition to giving the talks and workshop I also caught an opening at [@pockettrapcontemporary](https://www.instagram.com/pockettrapcontemporary/)
+
+I finally saw Tippu's Tiger at the V&A (even though I have had a tattoo of it on my neck for the past year 😂)
+
+![An automata of a tiger mauling a british soldier.](/fieldnotes/assets/images/akin/tiger.png)
+
+![A broken 3D scan of Tippu's tiger.](/fieldnotes/assets/images/akin/tiger.gif)
+<span>I tried to 'scan' it with an app on my phone</span>
+
+I was surprised by the warm weather and flowers in bloom.
+
+![flower in my hand](/fieldnotes/assets/images/akin/flower.png)
+
+I saw an issue of FOAM featuring [Rajyashri Goody's](http://www.rajyashrigoody.com/) poignant family photograph 
+
+![Goody's family enjoying a meal together.](/fieldnotes/assets/images/akin/raj.png)
+
+I saw some work at Somerset House by [Nouf Aljowaysir](http://www.noufaljowaysir.com/)
+
+![A video installation.](/fieldnotes/assets/images/akin/nouf.png)
+
+I also attended a fundraising event at [MayDay Rooms](https://maydayrooms.org/event/fundraiser-for-no-border-activists-in-the-polish-belarusian-woods/) with Polish activists speaking about the ongoing migrant crisis in the primeval Białowieża woods on the Belarusian border (something that much of the media, particularly in the U.S. seems to have forgotten about already). 
+
+And this is a bit of an aside but...
+I somehow hadn't put it together before that the book I'm currently reading ([Rambunctious Garden by Emma Marris](https://www.bloomsbury.com/us/rambunctious-garden-9781608194544/)) speaks about the _same_ woods but because the book was published in 2013, it has a very different tone. This is a very long quote but I just think it's fascinating to re-read with the context of today's ongoing crisis:
+
+"The vast green pantry that was Białowieża...
+
+![A pair of boots sit next to a tree.](/fieldnotes/assets/images/akin/maciek_Nabrdalik.jpeg)
+<span>photo by Maciek Nabrdalik for the NYT</span>
+
+In the nineteenth century, under Russian rule, predators that competed with humans for game were killed to keep their numbers low. Bears were considered choice game until 1869, when they were relabeled as predators of bison and exterminated. Wolves shared the same fate. Game numbers were inflated by large-scale feeding, which resulted in a forest fat with bison, wild boar, roe deer, red deer (a large species that closely resembles the North American elk), and introduced fallow deer, which all ate so many saplings that they may have changed the age and species structure of the forest...During World War I, Germany set up an intensive logging operation clearing 5 percent of the forest. Troops went on a hunting spree to feed themselves, hitting the bison particularly hard. An unknown and likely hungry poacher shot the last bison in the forest just after the First World War. Between wars the forest was logged by a British company and then by Polish foresters. A small portion was made into a strictly protected park in 1929. At the same time a few zoo bison were brought back to the forest but kept in a fenced yard... When the war began in 1939, Białowieża fell into Russian hands almost immediately, then went back to the Germans in 1941. Göring took it over as his own playground. He ordered the game protected and the local people expelled from forest villages and murdered in large numbers. Their corpses were left just inside the woods. Deeper in, Polish partisans hid in the forest fastness. After the war Stalin agreed (as the locals have it, after several shots of vodka) to let the old-growth core of Białowieża remain on the Polish side of the newly erected Polish-Soviet border. Later on a six-and-a-half-foot barbed-wire border fence was put up by the Soviets. Times have changed: instead of the USSR, Poland now borders Belarus, but the fence is still there, and still guarded, with neatly mown grass on each side...On the Belarus side, the forest is not very carefully studied or cared for. Rumor has it that the Belarusian leader since 1994, Alexander Lukashenko, uninterested in hunting, has had an extensive Roller-blading track installed among the trees"
+
+_The same damn barbed wire fence_ is still there!
+
+Anyway...
+
+My final update is that I caught COVID and so now I'm isolating in my apartment. If you happened to attend any of my events in London -- I'm sorry! Please get tested.
+
+Wishing you all good health,<br>
+Aarati
