@@ -17,9 +17,24 @@ $background-color_2: transparent;
 #playlist span{
 	padding:10px;
 }
+#playlist > div{
+	width:125px;
+	height:115px;
+	margin-right:10px;
+	display: inline-block;
+	overflow:hidden;
+	position: relative;
+    border-radius: 2px;
+	-webkit-border-radius: 2px;
+    border: 1px solid;
+    margin-top: 10px;
+}
 #playlist iframe{
+	position:absolute;
+	right:-10px;
+	top:-20px;
 	transform-origin: center;
-	transform:rotate(-90deg) translateX(-60px) translateY(40px);
+	transform:scale(0.8) translateX(20px);
 	filter: sepia(0.5) hue-rotate(-25deg) !important;
 	width: 250px;
 }
