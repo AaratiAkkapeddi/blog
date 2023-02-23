@@ -8,7 +8,21 @@ $color_2: inherit;
 $font-family_1: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 $background-color_1: #2e1015;
 $background-color_2: transparent;
-
+#playlist{
+	position: fixed;
+	right:0;
+	font-size:12px;
+	text-align: right;
+}
+#playlist span{
+	padding:10px;
+}
+#playlist iframe{
+	transform-origin: center;
+	transform:rotate(-90deg) translateX(-60px) translateY(40px);
+	filter: sepia(0.5) hue-rotate(-25deg) !important;
+	width: 250px;
+}
 /* NAVIGATION */
 @keyframes blink {
 	from,to {
@@ -372,6 +386,9 @@ main {
 @media (max-width:900px) {
 	body {
 		font-size: 14px;
+	}
+	#playlist{
+		display: none;
 	}
 	.post-content img{
 		max-width: calc(100% - 20px);
