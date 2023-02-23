@@ -17,6 +17,7 @@ Experiments with letting kombucha scoby dry on inked intaglio plates...
 ![scoby against white table](/fieldnotes/assets/images/scoby/scoby7.jpg)
 ![scoby against white table](/fieldnotes/assets/images/scoby/scoby8.jpg)
 ![henna tattooed scoby](/fieldnotes/assets/images/scoby/henna.png)
+<span>henna tattooed scoby</span>
 
 <video muted autoplay controls>
   <source src="/fieldnotes/assets/images/scoby/scoby9.mp4" type="video/mp4">
