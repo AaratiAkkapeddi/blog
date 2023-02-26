@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Cats"
+date:  2023-02-22 09:59:09 -0500
+categories: short
+thumb: "/cats.gif"
+thumb_alt: "Tippu's tiger & Noé León's Misionero Comido Por Tigre"
+excerpt: ""
+---
+
+
+![Tippu's tiger & Noé León's Misionero Comido Por Tigre](/fieldnotes/assets/images/cats.gif)
+<span>Tippu's tiger & Noé León's Misionero Comido Por Tigre</span>
