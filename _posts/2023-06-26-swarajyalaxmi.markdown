@@ -25,9 +25,9 @@ References:
 
 [African binary code](https://arbrown110.medium.com/african-binary-code-70de3076e395)
 
-[The Kolam Tradition | American Scientist](https://www.americanscientist.org/article/the-kolam-tradition)
+[The Kolam Tradition - American Scientist](https://www.americanscientist.org/article/the-kolam-tradition)
 
-[Significance of Kolam in Tamil Culture | Sahapedia](https://www.sahapedia.org/significance-of-kolam-tamil-culture)
+[Significance of Kolam in Tamil Culture - Sahapedia](https://www.sahapedia.org/significance-of-kolam-tamil-culture)
 
 [https://www.cmi.ac.in/gift/Kolam.htm](https://www.cmi.ac.in/gift/Kolam.htm)
 
