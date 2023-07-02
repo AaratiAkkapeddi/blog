@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Pinning Spotted Lanternfly Nymphs"
+date:   2023-07-02 8:00:09 -0500
+categories: short
+thumb: "lanternfly/nymphs2.png"
+thumb_alt: ""
+excerpt: ""
+---
+
+![two stages of spotted lanternfly nymphs pinned and preserved]](/fieldnotes/assets/images/lanternfly/nymphs.png)
