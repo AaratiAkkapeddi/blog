@@ -8,4 +8,4 @@ thumb_alt: ""
 excerpt: ""
 ---
 
-![two stages of spotted lanternfly nymphs pinned and preserved]](/fieldnotes/assets/images/lanternfly/nymphs.png)
+![two stages of spotted lanternfly nymphs pinned and preserved](/fieldnotes/assets/images/lanternfly/nymphs.png)
