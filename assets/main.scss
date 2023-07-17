@@ -3,7 +3,7 @@
 ---
 
 // @import "minima";
-$color_1: #E1ECEB;
+$color_1: #f8f8f8;
 $color_2: inherit;
 $font-family_1: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 $background-color_1: #2e1015;
@@ -83,9 +83,9 @@ $background-color_2: transparent;
 /*large desktop*/
 /* MOBILE */
 .bg{
-    background-image: url('/fieldnotes/assets/profile.jpg');
-    filter:blur(30px) contrast(120%) brightness(0.3);
-    background-position: 70% 10%;
+    // background-image: url('/fieldnotes/assets/profile.jpg');
+    // filter:blur(30px) contrast(120%) brightness(0.3);
+    // background-position: 70% 10%;
     opacity: 0.8;
 }
 body {
@@ -123,15 +123,16 @@ blockquote {
 	.bg {
 		position: absolute;
 	}
-	height: 150px;
-	width: 100%;
-	overflow: hidden;
-	z-index: 2;
-	position: fixed;
-	top: -50px;
-	left: 0;
-	filter: blur(30px);
-	opacity: 1;
+	height: 130px;
+    width:100%;
+    overflow: hidden;
+    z-index: 2;
+    position:fixed;
+    top:-50px;
+    left:0;
+    background-color: $background-color_1;
+    border-bottom:1px solid $color_1;
+    opacity: 1;
 }
 sup a{
 	text-decoration: none;
@@ -160,9 +161,16 @@ nav {
 	ul {
 		padding-left: 0;
 		padding: 0px 15px;
+		margin:10px 0;
 		&:last-child {
 			font-size: 14px;
 			text-align: right;
+			li{
+				&:first-child{
+					padding-top:0;
+				}
+
+			}
 		}
 	}
 	li {
@@ -174,9 +182,9 @@ nav {
 			font-size: 14px;
 			max-width: 200px;
 			text-overflow: ellipsis;
-			padding: 3px 7px;
+			padding: 2px 7px;
 			border-radius: 5px;
-			border: 2px solid #85ABA9;
+			border: 1px solid #f8f8f8;
 		}
 	}
 }
@@ -190,7 +198,7 @@ nav {
 		&:nth-child(1) {
 			margin-top: 5px;
 			&:hover {
-				box-shadow: 0px 0px 20px 4px #85ABA9;
+				box-shadow: 0px 0px 20px 4px #f8f8f8;
 			}
 		}
 	}
@@ -204,11 +212,11 @@ nav {
 #message-inner {
 	position: fixed;
 	max-width: calc(70% - 55px);
-	border: 2px solid #85ABA9;
+	border: 2px solid #f8f8f8;
 	padding: 25px;
 	display: none;
 	top: 4em;
-	background-image: url('./letter.png');
+	background-color: #2e1015;
 	background-repeat: no-repeat;
 	background-position: 17% 40%;
 	background-size: 300%;
