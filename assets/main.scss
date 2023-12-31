@@ -373,8 +373,10 @@ nav {
 .post-list li{
     display: inline-block;
     margin:15px;
+	margin-left:0;
     max-width: calc(20% - 30px);
 }
+
 .post-list li img{
     transition: 0.2s;
     border-radius: 0%;
@@ -451,6 +453,9 @@ nav {
 	body {
 		font-size: 14px;
 	}
+	h1{
+		font-size:14px;
+	}
 	#playlist{
 		display: none;
 	}
@@ -459,6 +464,11 @@ nav {
 		margin: 10px auto;
 	}
 	nav {
+		font-size:14px;
+		h1, a {
+			font-size:14px;
+		}
+
 		ul {
 			&:first-child {
 				li {
@@ -486,8 +496,12 @@ nav {
     .post-list li{
         display: inline-block;
         margin:15px;
-        max-width: calc(50% - 30px);
+		margin-left:0;
+        max-width: calc(50% - 15px);
     }
+	.post-list li:nth-child(even){
+		margin-right:0;
+	}
 }
 @media (max-width: 362px) {
 	#message {
