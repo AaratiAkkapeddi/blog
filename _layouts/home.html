@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<div id="playlist"><span>currently listening to..</span><br><div><iframe allow="encrypted-media" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/022aIiN84VSgW9BNzIQhgJ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div></div>
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -10,9 +9,10 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading"><p class="subscribe"><em> <a href="/fieldnotes/feed.xml">Here</a> is an RSS feed for this blog. You can also subscribe <a href="https://aarati.substack.com/">to my Substack newsletter for (very) occasional email updates</a>.</em></p>
+    <h1 class="post-list-heading">
       {{ page.list_title | default: "These are my 'field notes.' This is where I post fragments (thoughts, images, text) from my creative practice." }}
-    </h2>
+      <p class="subscribe"><em> <a href="/fieldnotes/feed.xml">Here</a> is an RSS feed for this blog. You can also subscribe <a href="https://aarati.substack.com/">to my Substack newsletter for (very) occasional email updates</a>.</em></p>
+    </h1>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -33,54 +33,4 @@ layout: default
   {%- endif -%}
 
 </div>
-
-<script>
-  function getRandomInt(min, max) {
-    min = Math.ceil(min);
-    max = Math.floor(max);
-    return Math.floor(Math.random() * (max - min) + min); // The maximum is exclusive and the minimum is inclusive
-  }
-  let points = [[50, 3], [ 66, 9], [ 82, 24], [ 91, 36], [ 96, 50], [ 95, 65], [ 85, 81], [ 71, 89], [ 55, 93], [ 39, 96], [ 18, 90], [ 6, 71], [ 4, 46], [ 5, 24], [ 21, 10]]
-  let imgs = document.getElementsByClassName("post-img");
-  for(let i = 0; i < imgs.length;i++){
-    let img = imgs[i]
-    let path = "polygon("
-    for(let x = 0; x < points.length; x++){
-      let point = points[x];
-      let newX = point[0] + getRandomInt(-10,10);
-      let newY = point[1] + getRandomInt(-10,10);
-      if(x != points.length-1){
-        path = path + newX + "% " + newY + "%, ";
-      }else{
-        path = path + newX + "% " + newY + "%)";
-      }
-    }
-    img.style.clipPath = path;
-
-  
-    // img.addEventListener("mouseover", function(){
-    //   img.style.clipPath = "polygon(0 0, 100% 0, 100% 100%, 0% 100%)"
-    // })
-    // img.addEventListener("mouseout", function(){
-    //   img.style.clipPath = path
-    // })
-
-  }
-  let exes = document.getElementsByClassName("post-excerpt");
-  for(let i = 0; i < exes.length;i++){
-    let img = exes[i]
-    let path = "polygon("
-    for(let x = 0; x < points.length; x++){
-      let point = points[x];
-      let newX = point[0] + getRandomInt(-10,10);
-      let newY = point[1] + getRandomInt(-10,10);
-      if(x != points.length-1){
-        path = path + newX + "% " + newY + "%, ";
-      }else{
-        path = path + newX + "% " + newY + "%)";
-      }
-    }
-    img.style.clipPath = path;
-  }
-</script>
 
