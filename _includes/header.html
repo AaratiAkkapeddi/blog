@@ -37,6 +37,9 @@
    
         
 </nav>
+<div id="color-controls">
+  <img src='https://aarati.online/assets/sun.svg'/><img src='https://aarati.online/assets/moon.svg'/>
+</div>
 <!-- End Navigation -->
 <div id="message">
     <img src='https://aarati.online/assets/closed.svg'/><img src='https://aarati.online/assets/open.svg'/>
@@ -75,4 +78,14 @@
             document.querySelector("#message").classList.remove('on')
         })
     }
+</script>
+<script>
+  let sun = document.querySelector("#color-controls");
+  sun.addEventListener("click", function(){
+      if(document.body.classList.contains('dark-mode')){
+          document.body.classList.remove('dark-mode')
+      }else{
+          document.body.classList.add('dark-mode')
+      }
+  })
 </script>

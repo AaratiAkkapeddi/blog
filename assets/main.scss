@@ -8,6 +8,48 @@ $font-family_1: "Arial";
 $background-color_1: #f8f8f8;
 $background-color_2: transparent;
 
+#color-controls{
+    display: block;
+    position: fixed;
+    bottom:35px;
+    left: 15px;
+    z-index: 9;
+}
+#color-controls img{
+    height: 20px;
+    position: absolute;
+    cursor: pointer;
+}
+#color-controls img:nth-child(1){
+    left:-4px;
+    top: -1px;
+    height: 22px;
+}
+#color-controls img:nth-child(1){
+    display: none;
+}
+body.dark-mode #color-controls img:nth-child(2){
+    display: none;
+}
+body.dark-mode #color-controls img:nth-child(1){
+    display: block;
+}
+body.dark-mode{
+    background-color: #231f1f;
+    color: #c1bfbf;
+}
+body.dark-mode nav{
+    border-bottom: 1px solid #c1bfbf;
+}
+body.dark-mode a, body.dark-mode main a, body.dark-mode a:link, body.dark-mode a:visited,a:hover,body.dark-mode #gallery a:hover,body.dark-mode nav a{
+   color: #c1bfbf;   
+}
+body.dark-mode #message img{
+    filter:invert(1);
+}
+body.dark-mode #message-inner, body.dark-mode nav{
+    background-color: #231f1f;
+}
 
 @keyframes squigglevision {
 	0% {
@@ -391,7 +433,6 @@ nav {
 	transition:0.2s;
 	vertical-align: baseline;
 	padding:0px;
-	background:$background-color_1;
 	text-align: center;
 }
 .post-excerpt:hover{
